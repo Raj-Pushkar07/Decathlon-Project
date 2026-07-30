@@ -12,8 +12,7 @@ helps analyze sales performance, customer behavior, product categories, profit,
 discounts, and other business KPIs through interactive visualizations.
 
 The project was created as part of my learning journey in Excel Dashboard
-Development by following a YouTube tutorial and implementing the concepts in
-Microsoft Excel.
+Development.
 
 Dataset Information:
 ---------------------------------------------------------
